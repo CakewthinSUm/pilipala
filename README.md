@@ -11,7 +11,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/guozhigq/pilipala/total) 
 
 </div>
-    <p>使用 Flutter 开发的 BiliBili 第三方客户端</p>
+    <p>使用 Flutter 开发的 BiliBili 第三方客户端，改了一下</p>
     
 <img src="https://github.com/guozhigq/pilipala/blob/main/assets/screenshots/510shots_so.png" width="32%" alt="home" />
 <img src="https://github.com/guozhigq/pilipala/blob/main/assets/screenshots/174shots_so.png" width="32%" alt="home" />
